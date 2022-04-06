@@ -11,7 +11,7 @@ Dificuldade de Doação
 
 ## Professores responsáveis
 
-* Rommel
+* Rommel Viera Carneiro
 * Pietro
 
 ## Instruções de utilização
