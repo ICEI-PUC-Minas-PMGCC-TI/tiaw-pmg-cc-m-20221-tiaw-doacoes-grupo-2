@@ -10,8 +10,8 @@ Ciência da Computação
 ## Participantes
 > Os membros do grupo são: 
 > - Iago Adrien de Paula Simões
-> - nome
-> - nome
+> - Fábio Freire Kochem
+> - Flávia Brandi Niffinegger
 > - nome
 > - nome
 > - nome
@@ -196,7 +196,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Projeto de Interface
-  
+  A pagina inicial do site é bem simples, para uma pessoa que quer logar e para outras que desejam fazer uma doação rapida.
+  Tentamos colocar o site o mais simples possivel, sendo isso apenas um protótipo, para que todos os usuários nao encontrem dificuldades na hora de acessar o site.
 <img src="https://media.discordapp.net/attachments/497958230396239878/964224135834259456/unknown.png?width=680&height=676">
 <img src="https://media.discordapp.net/attachments/497958230396239878/964224291132551248/unknown.png?width=401&height=675">
 
@@ -212,33 +213,23 @@ LINK DO PROTÓTIPO DO SITE: <a href="https://www.figma.com/proto/r93bqRYlBCWOidq
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Utilizando o metodo scrum, divimos nessa primeira sprint nosso grupo em duplas.
+Cada dupla ficou responsavel por uma atividade, sendo elas, a criação do contexto, a contrução da especificações do projeto, o desenvolvimento do protótipo e a apresentação.
+Na parte de Desing Thinking, fizemos parte dentro da sala de aula e outra em uma chamada no Discord, após termos feitos as intrevista via Forms e com algumas pessoalmente.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Nessa parte de divisões decidimos dividir cada parte do trabalho com membros que tinha tais habilidades no desenvolvimento das estapas 
+Contexto, no qual seria o texto sobre nosso projeto, ficou com os alunos Alvora e Gabriel
+  
+Ja a parte de especificações do projeto, foi feita pelo Victo e 
+  
+O responsável pelo protótipo foi o aluno Iago
+  
+E a apresentação feita no slide ficou por parte do Fabio e 
+  
+No Final os trabalhos de cada um foram repassados para o grupo revisareme verem se nao tiveram nenhum erro ou algo que poderia ser mudado.
 
 
 ## Ferramentas
@@ -247,10 +238,10 @@ LINK DO PROTÓTIPO DO SITE: <a href="https://www.figma.com/proto/r93bqRYlBCWOidq
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB7Djjc=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2 | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/proto/r93bqRYlBCWOidqmfHZGXM/Untitled?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
