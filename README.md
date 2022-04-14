@@ -5,7 +5,7 @@ Dificuldade de Doação
 ## Alunos integrantes da equipe
 
 * Iago Adrien de Paula Simões
-* Nome completo do aluno 2
+* Gabriel Tavares de Souza
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
