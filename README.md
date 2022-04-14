@@ -6,13 +6,13 @@ Dificuldade de Doação
 
 * Iago Adrien de Paula Simões
 * Gabriel Tavares de Souza
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Fábio Freire Kochem
+* Flávia Brandi Niffinegger
 
 ## Professores responsáveis
 
 * Rommel Viera Carneiro
-* Pietro
+* Carlos Pietro
 
 ## Estrutura do Documento
 
