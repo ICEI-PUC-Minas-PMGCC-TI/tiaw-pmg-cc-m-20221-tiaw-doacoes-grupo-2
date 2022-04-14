@@ -234,7 +234,8 @@ No Final os trabalhos de cada um foram repassados para o grupo revisareme verem 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+Utilizamos o ambiente Miro para o processo de Desing Thinking, no qual foi sugestão dos professores, sendo esse nossa primera trabalho da faculdade. 
+A parte do protótipo foi feita no Figma, pois entre algumas sugesões um mebro ja havia esperiência com esse site de protótipo.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -243,16 +244,7 @@ No Final os trabalhos de cada um foram repassados para o grupo revisareme verem 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/proto/r93bqRYlBCWOidqmfHZGXM/Untitled?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1 | 
 
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
+
 > 
 > O editor de código foi escolhido porque ele possui uma integração com o
 > sistema de versão. As ferramentas de comunicação utilizadas possuem
