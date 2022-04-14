@@ -16,6 +16,5 @@ Dificuldade de Doação
 
 ## Estrutura do Documento
 1 - [Contexto](Contexto.md)
-
 2 - [Especificação](Especificação.md)
 
