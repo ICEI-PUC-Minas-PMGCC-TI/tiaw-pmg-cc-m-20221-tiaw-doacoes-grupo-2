@@ -1,18 +1,13 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  Dificuldade de Doação......
+Dificuldade de Doação
 
 `CURSO` 
 
-......  Ciência da Computação ......
+Ciência da Computação
 
 ## Participantes
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
 > - Iago Adrien de Paula Simões
 > - nome
