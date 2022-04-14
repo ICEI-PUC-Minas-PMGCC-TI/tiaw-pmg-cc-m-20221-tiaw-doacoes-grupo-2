@@ -16,4 +16,4 @@ Dificuldade de Doação
 
 ## Estrutura do Documento
 
-[Contexto](1-Contexto.md)
+[Contexto](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/Contexto)
