@@ -72,38 +72,13 @@ O objetivo geral do grupo é desenvolver uma plataforma que conecte os cidadãos
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A motivação vem do fato da maioria das pessoas não saberem onde doar, como doar e também a falta de confiança existente entre os doadores e as instituições. Com muitas tragedias que vem ocorrendo nos últimos tempo, a população se sensibiliza e quer ajudar de alguma forma, porem a falta de informações gera uma dúvida e uma desconfiança na hora de ajudar o próximo. E aí que entra nosso site, para ajudar tanto as ONGs quanto aqueles que querem ajudar. 
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+A motivação vem do fato da maioria das pessoas não saberem onde doar, como doar e também a falta de confiança existente entre os doadores e as instituições. Com muitas tragedias que vem ocorrendo nos últimos tempo, a população se sensibiliza e quer ajudar de alguma forma, porem a falta de informações gera uma dúvida e uma desconfiança na hora de ajudar o próximo. E aí que entra nosso site, para ajudar tanto as ONGs quanto aqueles que querem ajudar. 
  
 # Especificações do Projeto
 
@@ -221,51 +196,18 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Projeto de Interface
+  
+<img src="https://media.discordapp.net/attachments/497958230396239878/964224135834259456/unknown.png?width=680&height=676">
+<img src="https://media.discordapp.net/attachments/497958230396239878/964224291132551248/unknown.png?width=401&height=675">
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
-
-## User Flow
-
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+LINK DO PROTÓTIPO DO SITE: <a href="https://www.figma.com/proto/r93bqRYlBCWOidqmfHZGXM/Untitled?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1"  target="_blank >Click Aqui</a>
 
 
-## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+
+
+
 
 
 # Metodologia
