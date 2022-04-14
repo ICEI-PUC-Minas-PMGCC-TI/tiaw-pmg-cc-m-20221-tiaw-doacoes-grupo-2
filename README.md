@@ -14,6 +14,6 @@ Dificuldade de Doação
 * Rommel Viera Carneiro
 * Pietro
 
-## Instruções de utilização
+## Estrutura do Documento
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+[Contexto](1-Contexto.md)
