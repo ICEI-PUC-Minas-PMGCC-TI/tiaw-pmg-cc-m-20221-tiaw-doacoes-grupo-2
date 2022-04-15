@@ -15,11 +15,11 @@ O público-alvo é composto de pessoas de todos os gêneros e idades, que tenham
 
 ## Personas e Mapas de Empatia
 
->1. Elsa tem 48 anos, e é corretora de imóveis. Utiliza redes sócias com frequência para postar fotos. Ela gostaria de ajudar mais pessoas que passem por dificuldades, >e gostaria de encontrar uma forma fácil e segura de doar em causas específicas.
+>1. Elsa tem 48 anos, e é corretora de imóveis. Utiliza redes sócias com frequência para postar fotos. Ela gostaria de ajudar mais pessoas que passem por dificuldades, e gostaria de encontrar uma forma fácil e segura de doar em causas específicas.
 
->2. Marcos tem 26 anos e é bancário. Está focado em seu desenvolvimento pessoal e em conhecer novos lugares. Por não estar disposto a gastar tanto tempo com causas >externas, precisa de um mecanismo que o permita fazer doações de forma rápida e fácil.
+>2. Marcos tem 26 anos e é bancário. Está focado em seu desenvolvimento pessoal e em conhecer novos lugares. Por não estar disposto a gastar tanto tempo com causas externas, precisa de um mecanismo que o permita fazer doações de forma rápida e fácil.
 
->3. Rubens tem 77 anos e é aposentado. Tem o sonho de abrir um canil para cuidar de animais abandonados. Por não ter conhecimentos sobre tecnologia, tem dificuldade de >realizar doações por meios digitais. Gostaria de uma forma fácil que o permitisse doar.
+>3. Rubens tem 77 anos e é aposentado. Tem o sonho de abrir um canil para cuidar de animais abandonados. Por não ter conhecimentos sobre tecnologia, tem dificuldade de realizar doações por meios digitais. Gostaria de uma forma fácil que o permitisse doar.
 
 
 
