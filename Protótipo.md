@@ -5,7 +5,7 @@
   LINK DO PROTÓTIPO DO SITE: <a href="https://www.figma.com/proto/r93bqRYlBCWOidqmfHZGXM/Untitled?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1"  target="_blank" >Clique Aqui</a>
   
   ## Use flow
-<img src="https://cdn.discordapp.com/attachments/959085365849886745/964905413986361354/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/959085365849886745/964904779673374770/unknown.png">
 
 
   ## Tela Inicial
