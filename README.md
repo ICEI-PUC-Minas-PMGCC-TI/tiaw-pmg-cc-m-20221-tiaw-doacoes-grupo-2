@@ -14,6 +14,9 @@ Ciência da Computação
 * Gabriel Tavares de Souza
 * Fábio Freire Kochem
 * Flávia Brandi Niffinegger
+* Gustavo Silvestre 
+* Alvaro 
+* Victor Zabel
 
 ## Professores responsáveis
 
