@@ -12,7 +12,7 @@ Contexto, no qual seria o texto sobre nosso projeto, ficou com os alunos Alvora 
   
 Ja a parte de especificações do projeto, foi feita pelo Victo e a Flavia
   
-Os responsáveis pelo protótipo foram os alunos Iago e Fabio
+Os responsáveis pelo protótipo foram os alunos Fabio, Gustavo e Iago 
   
 E a apresentação feita no slide ficou por parte do Fabio e o Gustavo
   
