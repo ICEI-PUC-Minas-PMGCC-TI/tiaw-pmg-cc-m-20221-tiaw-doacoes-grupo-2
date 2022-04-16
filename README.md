@@ -29,7 +29,7 @@ Ciência da Computação
 
 4 - [Metodologia](Metodologia.md)
 
-5 - [DesingThinking](PMGCC-M - T1-G5 - Dificuldade em fazer doações 2.pdf)
+5 - [DesingThinking](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/docs/concepcao/PMGCC-M%20-%20T1-G5%20-%20Dificuldade%20em%20fazer%20doações%202.pdf)
 
 6 - [Controle de Versão](versao.md)
 
