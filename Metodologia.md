@@ -1,6 +1,6 @@
 # Metodologia
 
-Utilizando o metodo scrum, divimos nessa primeira sprint nosso grupo em duplas.
+Utilizando o metodo scrum, divimos nessa primeira sprint nosso grupo em grupos com tais alunos capazes de fazer tal atividade.
 Cada dupla ficou responsavel por uma atividade, sendo elas, a criação do contexto, a contrução da especificações do projeto, o desenvolvimento do protótipo e a apresentação.
 Na parte de Desing Thinking, fizemos parte dentro da sala de aula e outra em uma chamada no Discord, após termos feitos as intrevista via Forms e com algumas pessoalmente.
 
