@@ -29,5 +29,7 @@ Ciência da Computação
 
 4 - [Metodologia](Metodologia.md)
 
-5 - [Controle de Versão](versao.md)
+5 - [DesingThinking](PMGCC-M - T1-G5 - Dificuldade em fazer doações 2.pdf)
+
+6 - [Controle de Versão](versao.md)
 
