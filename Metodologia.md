@@ -30,4 +30,4 @@ A hospedagem do site será feita pelo proprio GitHub por causa do projeto do rep
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB7Djjc=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2 | 
 |Hospedagem do site | Github |  https://XXXXXXX.github.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/proto/r93bqRYlBCWOidqmfHZGXM/Untitled?node-id=3%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1 | 
+|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/proto/6xYOo6jU7pOT6IIcsnpYUv/Doacoes?node-id=3%3A21&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A21 | 
