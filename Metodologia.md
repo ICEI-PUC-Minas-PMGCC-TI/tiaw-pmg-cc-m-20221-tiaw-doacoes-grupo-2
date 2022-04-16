@@ -7,7 +7,7 @@ Na parte de Desing Thinking, fizemos parte dentro da sala de aula e outra em uma
 
 ## Divisão de Papéis
 
-Nessa parte de divisões decidimos dividir cada parte do trabalho com membros que tinha tais habilidades no desenvolvimento das estapas 
+Nessa parte de divisões decidimos dividir cada parte do trabalho com membros que tinha tais habilidades no desenvolvimento das estapas.
 Contexto, no qual seria o texto sobre nosso projeto, ficou com os alunos Alvora e Gabriel
   
 Ja a parte de especificações do projeto, foi feita pelo Victo e a Flavia
