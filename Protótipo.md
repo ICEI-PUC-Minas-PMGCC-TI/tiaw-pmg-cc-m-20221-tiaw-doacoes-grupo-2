@@ -8,7 +8,7 @@
 
 
   ## Tela Inicial
-<img src="https://cdn.discordapp.com/attachments/497958230396239878/964242742052003850/unknown.png">
+<img src="https://media.discordapp.net/attachments/959085365849886745/964905413986361354/unknown.png?width=1202&height=676">
 
   ## Cadastro e Login
 <img src="https://cdn.discordapp.com/attachments/959085365849886745/964905588364558406/unknown.png">
