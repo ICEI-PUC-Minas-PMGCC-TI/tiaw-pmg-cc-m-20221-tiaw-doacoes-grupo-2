@@ -36,5 +36,5 @@ Ciência da Computação
 
 6 - [Controle de Versão](versao.md)
 
-7- 6 - [Apresentação](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/DIFICULDADE%20EM%20FAZER%20DOAÇÕES.pdf)
+7- [Apresentação](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/DIFICULDADE%20EM%20FAZER%20DOAÇÕES.pdf)
 
