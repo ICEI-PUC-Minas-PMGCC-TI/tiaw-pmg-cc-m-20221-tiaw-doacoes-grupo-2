@@ -11,11 +11,10 @@ Ciência da Computação
 > Os membros do grupo são: 
 > - Iago Adrien de Paula Simões
 > - Fábio Freire Kochem
-> - Flávia Brandi Niffinegger
-> - nome
-> - nome
-> - nome
-> - nome
+> - Gabriel Tavares de Souza
+> - Gustavo Silvestre
+> - Alvaro
+> - Victor Zabel
 
 # Estrutura do Documento
 
