@@ -13,7 +13,6 @@ Ciência da Computação
 * Iago Adrien de Paula Simões
 * Gabriel Tavares de Souza
 * Fábio Freire Kochem
-* Flávia Brandi Niffinegger
 * Gustavo Silvestre 
 * Alvaro 
 * Victor Zabel
@@ -21,7 +20,7 @@ Ciência da Computação
 ## Professores responsáveis
 
 * Rommel Viera Carneiro
-* Carlos Pietro
+* Carlos Alberto Marques Pietrobon
 
 ## Estrutura do Documento
 1 - [Contexto](Contexto.md)
