@@ -1,0 +1,444 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    background-color: #343a40;
+}
+
+.pesquisar {
+    margin-top: 20px;
+    height: 40px;
+    display: flex;
+}
+
+.opcoes {
+    margin-top: 20px;   
+    margin-left: 30px; 
+}
+
+.cad {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.opcad {
+    margin-left: 820px;
+    padding-right: 10px;
+}
+
+.menu-icon {
+    color: white;
+}
+
+header {
+    background: #212429;
+}
+
+.section {
+    background: #212429;
+}
+
+.cards p {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.cards {
+    padding: 15px;
+}
+
+.txt-sobre {
+    color: white;
+    padding-top: 15px;
+}
+
+.card-sobre{
+    padding: 10px;
+}
+.hidden{
+    display: none;
+}
+@media screen and (min-width:1200px){
+    .pesquisa {
+        margin-top: 10px;
+    }
+
+    .nav-causas{
+        margin-left: 50px;
+    }
+    
+    .btn-nav {
+        padding-left: 10px;
+        
+    }    
+
+    .btn-login {
+        padding-left: 700px;
+    }
+
+    .menu-icon {
+        display: none;
+    }
+
+    .img-principal {
+        margin-left: 200px;
+    }
+
+    .txt-principal {
+        text-align: center;
+        color: white;
+        margin-top: 190px;
+    }
+
+    .imgcarousel {
+        border: 5px solid #007bff;
+    }
+
+    .footer{
+        font-size: 20px;
+        font-weight: bolder;
+        padding: 10px;
+        background: #212529;
+        text-align: center;
+    }
+
+    section {
+        margin-bottom: 50px;
+    }
+
+    footer span {
+        color: white;
+    }
+    span {
+        font-weight: bolder;
+        font-size: 1.2em;
+    }
+    
+    .carousel {
+        padding-bottom: 10px;
+    }
+
+}
+
+/* menu mobile */
+
+#menutoggle {
+    display: none;
+}
+
+.menu-icon {
+    display: none;
+}
+
+.entrar {
+    display: none;
+}
+
+@media screen and (max-width:1024px){
+
+    .txt-sobre {
+        text-align: center;
+    }
+
+    .sobre {
+        text-align: center;
+        z-index: 0;
+    }
+
+    section {
+        padding-top: 160px;
+    }
+
+    .cards p {
+        text-align: center;
+        font-weight: bolder;
+    }
+
+    .cards {
+        padding-right: 100px;
+    }
+
+
+    .img-principal {
+        width: 100%;
+    }
+    
+    .txt-principal {
+        text-align: center;
+        color: white;
+    }
+
+    .entrar{
+        display: block;
+    }
+
+    .pesquisar {
+        margin-top: 30px;
+    }
+    
+   .logo {
+       margin-top: 10px;
+   } 
+
+   .cad {
+       display: none;
+   }
+
+    .header {
+        position: fixed;
+        top: 0px;
+        width: 100%;
+    }
+
+    .header nav {
+        display: absolute;
+        width: 100%;
+        height: 100%;
+    }
+
+    .opcoes {
+        display: flex;
+        position: fixed;
+        flex-wrap: wrap;
+        align-content: center;
+        top: 0px;
+        left: 0px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 100%;
+        height: 0%;
+        background: rgba(0, 0, 0, 0.7);
+        overflow: hidden;
+        transition: height 0.3s;
+    }
+
+    .opcoes li {
+        display: block;
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+
+    .opcoes li a {
+        display: block;
+        text-align: center;
+        width: 100%;
+        color: white;
+    }
+
+    .menu-icon {
+        margin-top: 18px;
+        display: block;
+        width: 50px;
+        height: inherit;
+        position: absolute;
+        top: 20px;
+        right: 2px;
+        line-height: 60px;
+        z-index: 999;
+    }
+
+    .menu-icon {
+        font-size: 1.7em;
+    }
+
+    
+    #menutoggle:checked ~ label i:nth-child(2){
+        display: block;
+
+    }
+
+    #menutoggle:checked ~ label i:first-child{
+        display: none;
+        
+    }
+
+    #menutoggle:not(checked) ~ label i:first-child{
+        display: block;
+        
+    }
+
+    #menutoggle:not(checked) ~ label i:nth-child(2){
+        display: none;
+
+    }
+
+    #menutoggle:checked ~ ul{
+        height: 100%;
+    }
+
+    .footer{
+        font-size: 20px;
+        font-weight: bolder;
+        padding: 10px;
+        background: #212529;
+        text-align: center;
+    }
+
+    section {
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (max-width:900px){
+
+    ul li {
+        text-align: center;
+    }
+
+    section {
+        background: #212429;
+        margin-top: 25px;
+        margin-bottom: 50px;
+    }
+
+    .footer{
+        font-size: 15px;
+        font-weight: bolder;
+        justify-content: center;
+        padding: 5px;
+        background: #212529;
+        text-align: center;
+    }
+
+    .card {
+        margin-left: 50px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .imgcarousel {
+        border: 5px solid #007bff;
+    }
+
+    span {
+        font-weight: bolder;
+        font-size: 0.9em;
+    }
+    
+    .carousel {
+        padding-bottom: 10px;
+    }
+
+    .img-principal {
+        width: 100%;
+    }
+
+    .txt-principal {
+        text-align: center;
+    }
+
+    .pesquisar {
+       padding-left: 55px;
+       margin-bottom: 10px;
+    }
+
+    .entrar{
+        display: block;
+    }
+
+    .pesquisar {
+        margin-top: 30px;
+    }
+    
+   .logo {
+       margin-top: 10px;
+   } 
+
+   .cad {
+       display: none;
+   }
+
+    .header {
+        position: fixed;
+        top: 0px;
+        width: 100%;
+    }
+
+    .header nav {
+        display: absolute;
+        width: 100%;
+        height: 100%;
+    }
+
+    .opcoes {
+        display: flex;
+        position: fixed;
+        flex-wrap: wrap;
+        align-content: center;
+        top: 0px;
+        left: 0px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 100%;
+        height: 0%;
+        background: rgba(0, 0, 0, 0.7);
+        overflow: hidden;
+        transition: height 0.3s;
+    }
+
+    .opcoes li {
+        display: block;
+        width: 100%;
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+
+    .opcoes li a {
+        display: block;
+        text-align: center;
+        width: 100%;
+        color: white;
+    }
+
+    .menu-icon {
+        display: block;
+        width: 50px;
+        height: inherit;
+        position: absolute;
+        top: 20px;
+        right: 2px;
+        line-height: 60px;
+        z-index: 999;
+    }
+
+    .menu-icon {
+        font-size: 1.7em;
+    }
+
+    
+    #menutoggle:checked ~ label i:nth-child(2){
+        display: block;
+
+    }
+
+    #menutoggle:checked ~ label i:first-child{
+        display: none;
+        
+    }
+
+    #menutoggle:not(checked) ~ label i:first-child{
+        display: block;
+        
+    }
+
+    #menutoggle:not(checked) ~ label i:nth-child(2){
+        display: none;
+
+    }
+
+    #menutoggle:checked ~ ul{
+        height: 100%;
+    }
+}
+
+.section {
+    background-color: #212429;
+    margin-top: 20px;
+}
+
+.footer {
+    border: 1px solid grey;
+}

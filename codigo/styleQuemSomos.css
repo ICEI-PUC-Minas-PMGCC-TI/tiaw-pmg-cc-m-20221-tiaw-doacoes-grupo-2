@@ -1,0 +1,139 @@
+@media screen and (max-width:576px){
+    ul li {
+        text-align: center;
+    }
+    
+    header {
+        background: #212429;;
+    }
+    .nav-item {
+        padding: 3px;
+    }
+
+    .logo {
+        margin-left: -40px;
+    }
+
+    section {
+        margin-top: 15px;
+    }
+
+    .card {
+        margin-top: 25px;
+        margin-left: 32px;
+    }
+
+    .txt-sobre {
+        text-align: center;
+        padding-top: 15px;
+    }
+
+    footer{
+        padding: 10px;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 15px;
+    }
+}
+.hidden{
+    display: none;
+}
+@media screen and (min-width: 580px) and (max-width: 880px){
+    ul li {
+        text-align: center;
+    }
+    
+    header {
+        background: #212429;;
+    }
+    .nav-item {
+        padding: 3px;
+    }
+
+    .logo {
+        margin-left: -40px;
+    }
+
+    section {
+        margin-top: 15px;
+        margin-bottom: 35px;
+    }
+
+    .card {
+        margin-top: 20px;
+    }
+
+    .txt-sobre {
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    footer{
+        padding: 10px;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    header {
+        background: #212429;;
+    }
+
+    footer{
+        padding: 10px;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 20px;
+    }
+
+    .pesquisa {
+        margin-top: 10px;
+    }
+
+    .nav-causas{
+        margin-left: 50px;
+    }
+    
+    .btn-nav {
+        padding-left: 10px;
+        
+    }
+
+    #btnClear {
+        float: right;
+    }      
+
+    .btn-login {
+        padding-left: 650px;
+    }
+
+    section {
+        margin-top: 15px;
+    }
+
+    #row-final {
+        margin-bottom: 45px;
+    }
+
+    .card {
+        margin-top: 25px;
+    }
+
+    .txt-sobre {
+        padding-top: 20px;
+    }
+}
+
+p {
+    color: white;
+}
+
+section h2 {
+    color: white;
+}
+
+.footer {
+    border-top: 1px solid grey;
+}
