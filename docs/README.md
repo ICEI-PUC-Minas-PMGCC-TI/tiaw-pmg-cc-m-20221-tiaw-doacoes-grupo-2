@@ -33,7 +33,7 @@ Ciência da Computação
 
 5 - [DesingThinking](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/docs/concepcao/Design_Thinking/PMGCC-M%20-%20T1-G5%20-%20Dificuldade%20em%20fazer%20doações%202.pdf)
 
-6 - [Controle de Versão](versao.md)
+6 - [Controle de Versão](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/versao.md)
 
 7- [Apresentação - Sprint 1](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/docs/apresentacao/sprint1/DIFICULDADE%20EM%20FAZER%20DOAÇÕES.pdf)
 
