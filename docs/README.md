@@ -27,7 +27,7 @@ Ciência da Computação
 
 2 - [Especificação](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/informacoes/Especificação.md)
 
-3 - [Protótipo](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/tree/master/docs/concepcao/prototipo)
+3 - [Protótipo](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/docs/concepcao/prototipo/Protótipo.md)
 
 4 - [Metodologia](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-doacoes-grupo-2/blob/master/informacoes/Metodologia.md)
 
